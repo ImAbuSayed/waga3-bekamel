@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي في ليل الشوق أناديك
+> قلبي بنار الحب دايم يرتجيك
+> بين النجوم أدور على لياليك
+> في كل همسة حنين قلبي شاريك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
