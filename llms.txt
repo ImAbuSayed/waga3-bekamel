@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/waga3-bekamel/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Waga3 Bekamel](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Music Rights & Licensing for Waga3 Bekamel](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
